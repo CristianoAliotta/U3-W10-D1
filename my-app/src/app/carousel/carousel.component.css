@@ -1,0 +1,7 @@
+#carouselExampleCaptions {
+  width: 100%;
+}
+#main-carousel {
+  width: 60%;
+  display: flex;
+}
